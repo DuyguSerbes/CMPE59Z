@@ -10,4 +10,4 @@ You should put the data files in the duygu_serbes/code/data directory with the p
 
 Start the code with below line in the duygu_serbes/code directory directory:
 
-python assignment1.py
+python3 assignment1.py
