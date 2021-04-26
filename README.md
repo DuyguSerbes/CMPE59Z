@@ -3,7 +3,7 @@
 If your environment does not have the packages listed in the requirements.txt, please install them with below line:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Requirement test path: 
